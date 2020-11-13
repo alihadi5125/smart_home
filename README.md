@@ -1,6 +1,6 @@
 # smart_home
 
-A new Flutter project.
+App with neumorphism concept without using neumorphism plugins or clay plugins
 
 ## Getting Started
 
